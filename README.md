@@ -76,7 +76,11 @@ python test.py --source webcam --model checkpoints/model_best.pth
 - MediaPipe for face mesh extraction
 - Google for Developers
 - Matplotlib for visualisation
-- rPPG-Toolbox utilities for evaluation 
+- rPPG-Toolbox utilities for evaluation
+
+## 📝 Research Paper
+Published in MDPI Signals journal on 9th December, 2025 <br>
+Link: [CHROM-Y: Illumination-Adaptive Robust Remote Photoplethysmography Through 2D Chrominance–Luminance Fusion and Convolutional Neural Networks](https://www.mdpi.com/2624-6120/6/4/72)
 
 ## 📜 Citation & References
 If you use this code, please cite the original algorithm and dataset papers:
